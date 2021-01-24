@@ -10,6 +10,8 @@ For iOS, `onMessage` works ok. For Android, the callback doesn't get triggered.
 
 ### iOS
 
-
+![](https://github.com/fpena/react-native-webview-post-message-example/blob/main/ios.gif)
 
 ### Android
+
+![](https://github.com/fpena/react-native-webview-post-message-example/blob/main/android.gif)
